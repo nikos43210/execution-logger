@@ -37,7 +37,7 @@ local function createWebhookData()
     local jobIdLink = "https://www.roblox.com/games/" .. game.PlaceId .. "?jobId=" .. game.JobId
 
     local data = {
-        username = "AKs Execution Logger",
+        username = "PlutoUI Logger",
         avatar_url = "https://i.imgur.com/AfFp7pu.png",
         embeds = {
             {

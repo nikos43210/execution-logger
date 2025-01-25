@@ -38,7 +38,7 @@ local function createWebhookData()
 
     local data = {
         username = "PlutoUI Logger",
-        avatar_url = "https://imgur.com/Q3ye0fr",
+        avatar_url = "https://imgur.com/Q3ye0fr.png",
         embeds = {
             {
                 title = "🎮 Game Information",
